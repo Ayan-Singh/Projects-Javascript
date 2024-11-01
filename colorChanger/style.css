@@ -1,0 +1,58 @@
+body{
+    height: 100vh;
+    
+}
+#grey{
+    background-color: grey;
+    height: 80px;
+    width: 80px;
+    border-color: black;
+    border-radius: 4%;
+    border-style: solid;
+}
+#yellow{
+    background-color: yellow;
+    height: 80px;
+    width: 80px;
+    border-color: black;
+    border-radius: 4%;
+    border-style: solid;
+}
+#red{
+    background-color: red;
+    height: 80px;
+    width: 80px;
+    border-color: black;
+    border-radius: 4%;
+    border-style: solid;
+}
+#blue{
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+    border-color: black;
+    border-radius: 4%;
+    border-style: solid;
+    margin-top: 8px;
+    margin-left: 110px;
+}
+#buttons{
+    height: 50%;
+    width: 20%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    align-items: center;
+    
+}
+.heading{
+    width: 50%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+   
+}
